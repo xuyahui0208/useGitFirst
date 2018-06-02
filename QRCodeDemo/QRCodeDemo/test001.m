@@ -21,6 +21,7 @@
     self = [super init];
     if (self) {
         NSLog(@"test001");
+        NSLog(@"current master");
     }
     return self;
 }
