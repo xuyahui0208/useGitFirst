@@ -17,6 +17,7 @@
 		AF98C6B72023F6000035F01A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AF98C6B62023F6000035F01A /* main.m */; };
 		AF98C6C12023F6000035F01A /* QRCodeDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AF98C6C02023F6000035F01A /* QRCodeDemoTests.m */; };
 		AF98C6CC2023F6000035F01A /* QRCodeDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AF98C6CB2023F6000035F01A /* QRCodeDemoUITests.m */; };
+		AFF9ACFA20C29A1A00854043 /* test001.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF9ACF920C29A1A00854043 /* test001.m */; };
 		CA4C31491720F106FD68DC70 /* libPods-QRCodeDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 625AE333EB1EC5493C04737E /* libPods-QRCodeDemo.a */; };
 		F3D86CFA3E33980D10510D44 /* libPods-QRCodeDemoUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 029525BC3BB80B4CC2422B72 /* libPods-QRCodeDemoUITests.a */; };
 /* End PBXBuildFile section */
@@ -63,6 +64,8 @@
 		AF98C6C72023F6000035F01A /* QRCodeDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QRCodeDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF98C6CB2023F6000035F01A /* QRCodeDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QRCodeDemoUITests.m; sourceTree = "<group>"; };
 		AF98C6CD2023F6000035F01A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFF9ACF820C29A1A00854043 /* test001.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test001.h; sourceTree = "<group>"; };
+		AFF9ACF920C29A1A00854043 /* test001.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test001.m; sourceTree = "<group>"; };
 		B16C8B253E5D871782633F98 /* Pods-QRCodeDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QRCodeDemoTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QRCodeDemoTests/Pods-QRCodeDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BC2C5700EA37FF212550A8EC /* Pods-QRCodeDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QRCodeDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QRCodeDemo/Pods-QRCodeDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		D28C4A8246C980A331BEEA4D /* Pods-QRCodeDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QRCodeDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-QRCodeDemo/Pods-QRCodeDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -153,6 +156,8 @@
 				AF4D767620243C69009D0347 /* SecViewController.m */,
 				AF4D767320240B51009D0347 /* XHQRCoderProduct.h */,
 				AF4D767220240B51009D0347 /* XHQRCoderProduct.m */,
+				AFF9ACF820C29A1A00854043 /* test001.h */,
+				AFF9ACF920C29A1A00854043 /* test001.m */,
 				AF4D767820261DF0009D0347 /* ReadMe.rtf */,
 				AF98C6B02023F6000035F01A /* Assets.xcassets */,
 				AF98C6B52023F6000035F01A /* Info.plist */,
@@ -463,6 +468,7 @@
 				AF4D767420240B52009D0347 /* XHQRCoderProduct.m in Sources */,
 				AF4D767720243C69009D0347 /* SecViewController.m in Sources */,
 				AF98C6A92023F6000035F01A /* AppDelegate.m in Sources */,
+				AFF9ACFA20C29A1A00854043 /* test001.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
