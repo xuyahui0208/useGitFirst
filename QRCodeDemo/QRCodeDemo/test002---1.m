@@ -1,14 +1,14 @@
 //
-//  test002.m
+//  test002---1.m
 //  QRCodeDemo
 //
 //  Created by 徐亚辉 on 2018/6/2.
 //  Copyright © 2018年 XYH. All rights reserved.
 //
 
-#import "test002.h"
+#import "test002---1.h"
 
-@implementation test002
+@implementation test002___1
 
 /*
 // Only override drawRect: if you perform custom drawing.
@@ -17,11 +17,5 @@
     // Drawing code
 }
 */
--(instancetype)init{
-    self = [super init];
-    if (self) {
-        NSLog(@"test002");
-    }
-    return self;
-}
+
 @end
