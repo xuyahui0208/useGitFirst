@@ -465,6 +465,7 @@
 			files = (
 				AF98C6AC2023F6000035F01A /* ViewController.m in Sources */,
 				AF98C6B72023F6000035F01A /* main.m in Sources */,
+				AFD0446420C2F0C20001664C /* test002.m in Sources */,
 				AF4D767420240B52009D0347 /* XHQRCoderProduct.m in Sources */,
 				AF4D767720243C69009D0347 /* SecViewController.m in Sources */,
 				AF98C6A92023F6000035F01A /* AppDelegate.m in Sources */,
